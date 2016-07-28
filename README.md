@@ -1,4 +1,4 @@
-<h1><i> IoT2016 </i></h1>
+<h1><i> IoT2016Group6 </i></h1>
 
 
 <h2>Requirements </h2>
