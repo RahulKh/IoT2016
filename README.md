@@ -1,6 +1,5 @@
 <h1><i> IoT2016 </i></h1>
 
-<h2>About </h2>
 
 <h2>Requirements </h2>
 To build, you need:
@@ -20,7 +19,8 @@ To view video, click the following link:
 
 <h2> Contributors </h2>
 
-
+<p> Jimmy Tay <br>	Kenneth Nyman	<br>Rahul Khinvasara <br>
+Justin Dam <br>	Danish Shaikh	<br>	Hamdi Kalifa </p>
 
 
 
