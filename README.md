@@ -15,7 +15,7 @@ To build, you need:
 
 
 <h2>Video  </h2>
-To view video, click the following link:
+To view video, click the following link: https://htmlpreview.github.io/?https://github.com/RahulKh/IoT2016/blob/master/index.html
 
 <h2> Contributors </h2>
 
