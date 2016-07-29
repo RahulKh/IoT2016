@@ -11,7 +11,7 @@ To build, you need:
 <li> MySQL (https://www.mysql.com/) </li>
 </ul>
 
-<h2>Setup </h2>
+<h2>Steps to reproducing demo </h2>
 
 
 <h2>Video  </h2>
