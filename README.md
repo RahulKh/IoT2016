@@ -12,6 +12,15 @@ To build, you need:
 </ul>
 
 <h2>Steps to reproducing demo </h2>
+<ol>
+<li> Setup mySql and Apache server </li>
+<li> Run java code (esper component)</li>
+<li> Open up index.php</li>
+<li> Log in </li>
+<li>Review list of Mac addresses</li>
+<li> Select Email now </li>
+
+</ol>
 
 
 <h2>Video  </h2>
